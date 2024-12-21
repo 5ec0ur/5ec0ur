@@ -7,7 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ec0ur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
+<h2 align="left"> Join My Discord ---> https://discord.gg/bdXMW5JT6B
 
 ###
 
