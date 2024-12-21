@@ -9,9 +9,6 @@
 
 ###
 
-
-
-
 ###
 
 <div align="left">
@@ -32,4 +29,4 @@
 
 ###
 
-
+![giphy (1)](https://github.com/user-attachments/assets/bac2c85f-264b-44fd-853b-0de7cf91b5e2)
