@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/233c18c7-b686-4d0f-a7c4-514825360a10)
 
-![standard (1)](https://github.com/user-attachments/assets/be36b6b8-42c5-4c2e-a88a-26cc25615894)
 
 
 <h2 align="left">Hi 👋! My name is 5ec0ur and I'm a 20 from Scotland </h2>
