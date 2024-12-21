@@ -1,4 +1,10 @@
+
+![standard (1)](https://github.com/user-attachments/assets/be36b6b8-42c5-4c2e-a88a-26cc25615894)
+
+
 <h2 align="left">Hi 👋! My name is 5ec0ur and I'm a 20 from Scotland </h2>
+
+
 
 ###
 
@@ -6,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=5ec0ur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ec0ur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 
 <h2 align="left"> Join My Discord ---> https://discord.gg/bdXMW5JT6B
 
@@ -29,5 +34,3 @@
 </div>
 
 ###
-
-![giphy (1)](https://github.com/user-attachments/assets/bac2c85f-264b-44fd-853b-0de7cf91b5e2)
